@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">RightNow</string>
+    <string name="app_topbar_name">Right Now!</string>
+
+    <string name="ok">OK</string>
+    <string name="skip">Skip</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit">Edit</string>
+    <string name="more">More</string>
+    <string name="done">Done</string>
+    <string name="empty">Empty</string>
+
+    <string name="home">Home</string>
+    <string name="group">Group</string>
+    <string name="settings">Settings</string>
+
+    <string name="sent_success">Sent!</string>
+    <string name="sent_failure">Failed to send the request</string>
+    <string name="placeholder_new_group">Enter new group</string>
+    <string name="placeholder_new_member">Enter ID</string>
+    <string name="msg_id_exists">The ID already exists</string>
+    <string name="msg_navigate_to_setting">Navigate to Settings</string>
+    <string name="msg_play_button">Send the play request</string>
+
+    <string name="refresh">Refresh</string>
+    <string name="ungrouped">Ungrouped</string>
+    <string name="add_member">New member</string>
+    <string name="select_group">Select a group</string>
+    <string name="add_group">New group</string>
+</resources>
